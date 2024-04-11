@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+Developed by : MELKIN SAM .D
+Register number : 212223220056
 ## AIM
 ## ALGORITHM:
 1. Start the program.
